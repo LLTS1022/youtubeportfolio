@@ -1,5 +1,5 @@
-import logo from "./images/logo.png";
-import bannerImg from "./images/bannerImg.png";
+import logo from "./images/me2.png";
+import bannerImg from "./images/me1.jpg";  //C:\Users\mrjon\Dropbox\ProgrammingProjects\Portfolio2_ReactJS\youtubeportfolio\src\assets\images\me1.jpg
 import projectOne from "./images/projects/projectOne.jpg";
 import projectTwo from "./images/projects/projectTwo.jpg";
 import projectThree from "./images/projects/projectThree.jpeg";
